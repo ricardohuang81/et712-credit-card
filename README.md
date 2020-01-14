@@ -1,1 +1,1 @@
-# et712-credit-card
+# Class project for basic credit card validation cases
